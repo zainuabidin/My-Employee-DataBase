@@ -53,7 +53,7 @@ const Questions = () => {
       }
       if (answers.options === "Update an employee role") {
         updateEmployeeRole();
-      }else process.exit()
+      }
     });
 };
 
